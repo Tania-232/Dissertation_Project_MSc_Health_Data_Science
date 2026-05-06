@@ -20,4 +20,20 @@ Events- all-cause mortality, obesity-related cancer mortality, non-obesity-relat
 
 Confounders- adjusted for age, socioeconomic status (townsend deprivation index), lifestyle factors (e.g. smoking status, alcohol intake and physical activity) and comorbidities (e.g. cancer, diabetes)
 
+## Statisical Packages used
+
+Statistical analysis was conducted within the UK Biobank Research Analysis Platform (UK-
+RAP) in order to be in compliance with the data confidentiality and governance guidelines provided.
+
+The analysis was performed using R statistical software (v4.4.0; R core team 2024).
+
+base r functions and the dplyr package (v1.1.4; Wickham et al 2023). 
+
+ggplot2 package (v3.5.2; Wickham 2016)
+
+mice package (v3.18.0; Burren and Groothuis-Oudshoorn 2011)
+
+survival package (v3.8.3; Therneau 2024) 
+
+cmprsk package (v2.2.12; Gray 2024) w
 
