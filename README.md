@@ -35,5 +35,5 @@ mice package (v3.18.0; Burren and Groothuis-Oudshoorn 2011)
 
 survival package (v3.8.3; Therneau 2024) 
 
-cmprsk package (v2.2.12; Gray 2024) w
+cmprsk package (v2.2.12; Gray 2024)
 
